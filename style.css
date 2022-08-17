@@ -1,0 +1,132 @@
+html {
+    scroll-behavior: smooth;
+}
+  
+body {
+    font-family: 'DynaPuff', cursive;
+    margin: 50px;
+    background: url(assets/bg.svg);
+}
+
+a {
+    text-decoration: none;
+}
+
+.container {
+    background-color: white;
+    border-radius: 20px;
+    padding: 50px;
+    position: relative;
+}
+
+.navbar {
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+}
+
+.navbar-title {
+    margin-left: 100px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+}
+
+.navbar-title img {
+    width: 50px;
+}
+
+.navbar-title span {
+    width: 200px;
+}
+
+.navbar-menu {
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-end;
+    width: 100%;
+    margin-right: 100px;
+}
+
+.navbar-item {
+    padding: 15px;
+}
+
+.navbar-item a {
+    text-decoration: none;
+    color: black;
+}
+
+.navbar-item a:hover {
+    color: #E51937;
+}
+
+.content {
+    padding: 100px;
+    display: flex;
+    flex-direction: row;
+}
+
+.content img {
+    width: 100%;
+}
+
+.content-teks h1 {
+    font-size: 50px;
+}
+
+.content-teks p {
+    font-family: 'Sniglet', cursive;
+    font-size: 18px;
+    line-height: 2.5rem;
+    color: #646464;
+}
+
+.footer {
+    width: 100%;
+    text-align: center;
+    position: absolute;
+    bottom: 10px;
+    padding: 10px;
+}
+
+.footer a {
+    text-decoration: none;
+    color: #646464;
+    margin: 5px;
+}
+
+.text-pink {
+    color: rgb(255, 71, 240)
+}
+
+.text-merah {
+    color: rgb(255, 73, 73);
+}
+
+.btn {
+    font-family: 'Sniglet', cursive;
+    background-color: white;
+    padding: 10px;
+    border-radius: 5px;
+    border: 0px !important;
+    cursor: pointer;
+}
+
+.btn-next-1 {
+    background-color: rgb(175, 41, 41);
+    color: white;
+}
+
+.content-2 .content-teks {
+    margin-left: 70px;
+}
+
+.content-2 img {
+    width: 500px;
+}
+
+.content-3 img {
+    width: 600px;
+}
