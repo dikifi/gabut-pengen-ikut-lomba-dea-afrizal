@@ -10,7 +10,7 @@ Jelaskan Filosfi website anda yang anda buat, dengan sebaik mungkin.
 | **Author**       | : | Fajar F |
 | **Tema**       | : | Perlawanan Perjajahan 1945 - Sejarah singkat tentang penjajahan sampai merdeka |
 | **Category**    | : | Desain Website                 |
-| **Responsive**    | : | Tidak (Rekomendasi 1920x1080)                |
+| **Responsive**    | : | Ya (new)                |
 | **Animasi Digunakan** | : | [Animate.css](https://animate.style/) |
 | **Font Digunakan** | : | [DynaPuff](https://fonts.google.com/specimen/DynaPuff) & [Sniglet](https://fonts.google.com/specimen/Sniglet) |
 | **Referensi** | : | [Dribble](https://dribbble.com/shots/4997167-Tarik-Tambang/attachments/1116005?mode=media) |
